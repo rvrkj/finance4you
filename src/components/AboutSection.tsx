@@ -17,7 +17,7 @@ const AboutSection = () => {
             Your Guide to <span className="text-gradient-gold">Financial Literacy</span>
           </h2>
           <p className="text-muted-foreground font-body text-lg leading-relaxed">
-            Fynance4You is a financial education initiative built by industry professionals who believe in making stock market knowledge simple, ethical, and accessible to everyone. We combine real-world brokerage experience with a passion for teaching — helping you invest with clarity and confidence.
+            Finance4You is a financial education initiative built by industry professionals who believe in making stock market knowledge simple, ethical, and accessible to everyone. We combine real-world brokerage experience with a passion for teaching — helping you invest with clarity and confidence.
           </p>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">

@@ -13,7 +13,7 @@ const HeroSection = () => {
           Your Trusted Financial Education Partner
         </p>
         <h1 className="font-display text-5xl md:text-7xl font-bold text-primary-foreground mb-6 animate-fade-in-up">
-          Fynance<span className="text-gradient-gold">4</span>You
+          Finance<span className="text-gradient-gold">4</span>You
         </h1>
         <p className="font-body text-primary-foreground/70 text-lg md:text-xl max-w-2xl mx-auto mb-8 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
           Empowering individuals with practical stock market education, investment awareness, and the confidence to make independent financial decisions.
