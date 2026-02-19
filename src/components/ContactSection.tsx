@@ -21,11 +21,11 @@ const ContactSection = () => {
               Call: 9036392178
             </a>
             <a
-              href="mailto:learn@fynanc4you.in"
+              href="mailto:learn@finance4you.in"
               className="inline-flex items-center justify-center gap-3 border border-border text-foreground font-body font-semibold px-8 py-4 rounded-xl hover:bg-muted transition-colors"
             >
               <Mail className="h-5 w-5" />
-              learn@fynanc4you.in
+              learn@finance4you.in
             </a>
           </div>
         </div>
