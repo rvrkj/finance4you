@@ -8,7 +8,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2">
           <TrendingUp className="h-6 w-6 text-secondary" />
           <span className="font-display text-xl text-primary-foreground font-semibold">
-            Aasish Kumar
+            Fynance4You
           </span>
         </Link>
         <div className="hidden md:flex items-center gap-8 text-sm font-body">
