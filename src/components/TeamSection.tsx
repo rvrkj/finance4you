@@ -17,7 +17,7 @@ const teamMembers = [
   {
     name: "Rajeev Jaiswal",
     role: "Co-Founder & Market Strategist",
-    qualification: "Founder of STOCKR",
+    qualification: "Indian School of Business | Founder of STOCKR",
     experience: "Stock Market Research & Strategy",
     highlights: [
       "Founded STOCKR — a stock market research initiative",
