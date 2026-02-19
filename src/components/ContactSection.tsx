@@ -21,7 +21,7 @@ const ContactSection = () => {
               Call: 9036392178
             </a>
             <a
-              href="mailto:aasishpsc@gmail.com"
+              href="mailto:learn@fynanc4you.in"
               className="inline-flex items-center justify-center gap-3 border border-border text-foreground font-body font-semibold px-8 py-4 rounded-xl hover:bg-muted transition-colors"
             >
               <Mail className="h-5 w-5" />
