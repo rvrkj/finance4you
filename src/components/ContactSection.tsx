@@ -25,7 +25,7 @@ const ContactSection = () => {
               className="inline-flex items-center justify-center gap-3 border border-border text-foreground font-body font-semibold px-8 py-4 rounded-xl hover:bg-muted transition-colors"
             >
               <Mail className="h-5 w-5" />
-              Email Me
+              learn@fynanc4you.in
             </a>
           </div>
         </div>
