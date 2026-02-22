@@ -11,7 +11,7 @@ const teamMembers = [
       "Axis Securities — Equity advisory & client servicing",
       "Kotak Securities (BA) — Beginner-friendly financial education",
       "Previously managed AUM ~ ₹50 Cr",
-      "Handling 700+ Clients",
+      "Handled 700+ Clients",
     ],
     specialization: "Stock market education, risk management & investor psychology",
     icon: GraduationCap,
